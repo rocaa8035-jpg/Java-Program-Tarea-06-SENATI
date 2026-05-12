@@ -4,7 +4,7 @@ En esta tarea el objetivo es crear 1 programa en java que satisfaga el caso.
 
 Caso: El programa exige una cantidad entera de cursos y una cantidad entera de notas por curso; A partir de lo ingresado, el programa exige y almacena los cursos y sus notas en arreglos bidimencionales; Finalmente, el promedio y estado se calculan por cada curso y se imprime una lista.
 
-🚀 Requisitos Previos
+#🚀 Requisitos Previos
 Para ejecutar este proyecto, necesitas tener instalado lo siguiente en tu máquina:
 
 Java Development Kit (JDK): Se recomienda JDK 17 o superior.
@@ -13,7 +13,7 @@ Extension Pack for Java (en VS Code):
 Abre VS Code.
 Ve a la vista de Extensiones (Ctrl+Shift+X).
 Busca "Extension Pack for Java" y haz clic en instalar(https://www.youtube.com/watch?v=hzvvUeFQ1mY).
-⚙️ Configuración y Ejecución
+#⚙️ Configuración y Ejecución
 Sigue estos pasos para compilar y ejecutar el archivo Java:
 
 Clonar o descargar: Descarga este repositorio en tu máquina local.
@@ -26,5 +26,5 @@ Haz clic en el enlace Run que aparece justo encima del método public static voi
 Java SE 17
 VS Code
 Extension Pack for Java (Microsoft)
-👤 Autor
+#👤 Autor
 Angelo Jair Roldan Roca - rocaa8035-jpg
