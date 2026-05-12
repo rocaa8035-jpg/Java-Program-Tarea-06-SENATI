@@ -1,30 +1,55 @@
 # Java-Program-Tarea-06-SENATI
-En este repositorio quiero que conozcan mi trabajo en esta tarea sobre "Java Program".
-En esta tarea el objetivo es crear 1 programa en java que satisfaga el caso.
 
-Caso: El programa exige una cantidad entera de cursos y una cantidad entera de notas por curso; A partir de lo ingresado, el programa exige y almacena los cursos y sus notas en arreglos bidimencionales; Finalmente, el promedio y estado se calculan por cada curso y se imprime una lista.
+¡Bienvenido a mi repositorio! Aquí presento el desarrollo de la sexta tarea del curso, enfocada en la implementación de estructuras de datos mediante arreglos bidimensionales en **Java**.
 
-#🚀 Requisitos Previos
-Para ejecutar este proyecto, necesitas tener instalado lo siguiente en tu máquina:
+## 📋 Descripción del Caso
 
-Java Development Kit (JDK): Se recomienda JDK 17 o superior.
-Visual Studio Code (VS Code): Editor de código ligero.
-Extension Pack for Java (en VS Code):
-Abre VS Code.
-Ve a la vista de Extensiones (Ctrl+Shift+X).
-Busca "Extension Pack for Java" y haz clic en instalar(https://www.youtube.com/watch?v=hzvvUeFQ1mY).
-#⚙️ Configuración y Ejecución
-Sigue estos pasos para compilar y ejecutar el archivo Java:
+El objetivo es desarrollar un sistema de gestión de calificaciones que realice lo siguiente:
 
-Clonar o descargar: Descarga este repositorio en tu máquina local.
-Abrir con VS Code: Abre la carpeta del proyecto en VS Code(https://www.youtube.com/watch?v=hzvvUeFQ1mY).
-Esperar a la carga: Es posible que VS Code tarde unos segundos en importar el proyecto y detectar las dependencias (verás una barra de carga en la parte inferior).
-Ejecutar el programa:
-Abre el archivo Entregable06.java.
-Haz clic en el enlace Run que aparece justo encima del método public static void main(https://www.youtube.com/watch?v=dO2rEgfOJRg).
-🛠️ Tecnologías Utilizadas
-Java SE 17
-VS Code
-Extension Pack for Java (Microsoft)
-#👤 Autor
-Angelo Jair Roldan Roca - rocaa8035-jpg
+1. **Entrada de datos:** Solicita la cantidad total de cursos y la cantidad de notas por cada uno.
+2. **Almacenamiento:** Organiza y guarda los nombres de los cursos y sus respectivas calificaciones utilizando **arreglos bidimensionales**.
+3. **Procesamiento:** Calcula automáticamente el promedio y determina el estado (aprobado/desaprobado) para cada curso.
+4. **Salida:** Imprime una lista detallada con toda la información procesada.
+
+---
+
+## 🚀 Requisitos Previos
+
+Para ejecutar este proyecto, asegúrate de contar con:
+
+* **Java Development Kit (JDK):** Versión 17 o superior.
+* **Visual Studio Code (VS Code):** Como editor de código base.
+* **Extension Pack for Java:** Instalado en VS Code para soporte completo del lenguaje.
+
+---
+
+## ⚙️ Configuración y Ejecución
+
+Sigue estos pasos para poner en marcha el programa:
+
+1. **Clonar o descargar:** Obtén una copia de este repositorio en tu máquina local.
+2. **Abrir en VS Code:** Abre la carpeta raíz del proyecto.
+3. **Preparación:** Espera a que VS Code cargue las dependencias (notarás una barra de progreso en la esquina inferior derecha).
+4. **Ejecución:**
+* Localiza el archivo `Entregable06.java`.
+* Haz clic en el botón **Run** que aparece sobre el método `public static void main`.
+
+
+
+> 💡 **Tip:** Si no ves el botón "Run", asegúrate de que la extensión de Java esté activa y el JDK correctamente configurado.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+* **Lenguaje:** Java SE 17
+* **IDE:** Visual Studio Code
+* **Herramientas:** Extension Pack for Java (Microsoft)
+
+---
+
+## 👤 Autor
+
+**Angelo Jair Roldan Roca**
+
+✉️ [rocaa8035-jpg]
